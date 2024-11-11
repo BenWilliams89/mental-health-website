@@ -5,15 +5,16 @@
 :root{
     --primary-font: "Faculty Glyphic", sans-serif;
     --secondary-font: "Open Sans", sans-serif;
-    --primary-color: ;
+    --primary-color: white;
     --secondary-color: ;
-    --highlight-color: ;
+    --highlight-color: yellow;
     --highlight-color-light: ;
 }
 
 body{
 font-family: var(--primary-font);
-
+background-color: #B0C4DE;
+color:var(--primary-color);
 }
 
 h1,
