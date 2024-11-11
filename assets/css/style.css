@@ -35,9 +35,7 @@ p {
 
 /* Header CSS Styling */
 .hero{
-    height: 500px;
-    Width: 500px;
-    border-radius: 100px;
+    border-radius: 200px;
 }
 
 .header{
