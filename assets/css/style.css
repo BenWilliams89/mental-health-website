@@ -13,7 +13,7 @@
 
 body{
 font-family: var(--primary-font);
-background-color: #B0C4DE;
+background-color: #20B2AA;
 color:var(--primary-color);
 }
 
@@ -27,8 +27,9 @@ p {
     font-family: var(--secondary-font);
 }
 
+
 /* Navbar CS Styling */
 .navbar{
-    background-color: #20B2AA;
+    background-color: #b0C4DE;
 }
 
