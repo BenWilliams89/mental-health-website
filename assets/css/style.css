@@ -1,0 +1,16 @@
+/*Link to google fonts*/
+    @import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/* CSS Variables */
+:root{
+    --primary-font: "Faculty Glyphic", sans-serif;
+    --secondary-font: "Open Sans", sans-serif;
+    --primary-color: ;
+    --secondary-color: ;
+    --highlight-color: ;
+    --highlight-color-light: ;
+}
+body{
+font-family: var(--primary-font);
+background-color: red;
+}
