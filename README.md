@@ -44,3 +44,19 @@ The customer spoke about what the user is looking to get out of the website, her
 
 
 ● Credits:
+
+Steps:
+
+- Added HTML boilerplate
+
+- Added all the links in the header, like bootstrap, css and favion. Also added them to the bottom of the body while placing my css link after my bootstrap link encase i needed to overrule any changes bootstrap was applying.
+
+- Added a readme and added basic outline steps
+
+- Addedd a css file and changed background colour to check it was working, then added google fonts
+
+- Added a navbar with bootstrap and made some changes by removing and updating certain fields to give it the style i wanted such as deleting disabled button and search bar.
+
+- used co-pilot to come up with a favicon image, then went to favicon.io to reduce the size and get the code to add to the html
+
+- Nav bar background was changed by inspecting the browser with the navtools - finding that the navbar class had an !important in it that was overriding my colours. found the issues then removed in code to update the navbar colour.
