@@ -40,7 +40,6 @@ p {
     border-radius: 100px;
 }
 
-#service1{
-    background-color: red;
-    color:red;
-}
+.header{
+    background-color: white;
+}  
