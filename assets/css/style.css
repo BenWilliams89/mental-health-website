@@ -13,7 +13,7 @@
 
 body{
 font-family: var(--primary-font);
-background-color: #20B2AA;
+background-color: #b0C4DE;
 color:var(--primary-color);
 }
 
@@ -30,6 +30,6 @@ p {
 
 /* Navbar CS Styling */
 .navbar{
-    background-color: #b0C4DE;
+    background-color: #20B2AA;
 }
 
