@@ -27,3 +27,8 @@ p {
     font-family: var(--secondary-font);
 }
 
+/* Navbar CS Styling */
+.navbar{
+    background-color: #20B2AA;
+}
+
