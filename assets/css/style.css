@@ -10,7 +10,17 @@
     --highlight-color: ;
     --highlight-color-light: ;
 }
+
 body{
 font-family: var(--primary-font);
-background-color: red;
+}
+
+h1,
+h2,
+h3{
+    font-family: var(--primary-font);
+}
+
+p {
+    font-family: var(--secondary-font);
 }
