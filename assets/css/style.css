@@ -13,6 +13,7 @@
 
 body{
 font-family: var(--primary-font);
+
 }
 
 h1,
@@ -24,3 +25,4 @@ h3{
 p {
     font-family: var(--secondary-font);
 }
+
