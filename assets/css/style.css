@@ -39,3 +39,8 @@ p {
     Width: 500px;
     border-radius: 100px;
 }
+
+#service1{
+    background-color: red;
+    color:red;
+}
