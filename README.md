@@ -60,3 +60,7 @@ Steps:
 - used co-pilot to come up with a favicon image, then went to favicon.io to reduce the size and get the code to add to the html
 
 - Nav bar background was changed by inspecting the browser with the navtools - finding that the navbar class had an !important in it that was overriding my colours. found the issues then removed in code to update the navbar colour.
+
+- Next I created the Hero section by creating a container, then a row and then two divs. The first div had some text, paragraghs , icons and a button. The second div had an img. I made these align center and tweaked the styling to have a correct looking layout.
+
+- I used font-awesome for the icons 
