@@ -50,12 +50,14 @@ p {
     border-radius: 75px;
 }
 
+/* Issues CSS styling */
+
 #issues{
     background-color: white;
     border-radius: 120px;
 }
 
-/* Issues CSS styling */
+
 
 
 /* Reviews CSS Styling */
@@ -90,3 +92,9 @@ footer{
         width: 300px;
     }
     }
+
+ @media screen and (max-width: 768px) {
+    #how-we-help .card {
+    min-height: 344px;
+ }
+ } 
