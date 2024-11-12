@@ -69,3 +69,12 @@ footer{
     color: yellow;
     
 }
+
+/* Media Queries*/
+
+@media screen and (max-width: 520px) {
+#issues img { 
+    height: 300px;
+    width: 300px;
+}
+}
