@@ -45,6 +45,11 @@ p {
     height:400px;
 }
 
+
+#hero img{
+    border-radius: 75px;
+}
+
 #issues{
     background-color: white;
     border-radius: 120px;
@@ -78,3 +83,10 @@ footer{
     width: 300px;
 }
 }
+
+@media screen and (max-width: 768px) {
+    #issues img { 
+        height: 300px;
+        width: 300px;
+    }
+    }
