@@ -34,10 +34,17 @@ p {
 }
 
 /* Header CSS Styling */
-.hero{
-    border-radius: 225px;
-}
 
 .header{
     background-color: white;
 }  
+
+#issues img{
+    border-radius: 20px;
+    width:400px;
+    height:400px;
+}
+
+#issues{
+    background-color: white;
+}
