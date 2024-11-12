@@ -54,3 +54,9 @@ p {
 .text-column{
     padding: 30px;
 }
+
+/* Reviews CSS Styling */
+
+#reviews{
+    background-color: white;
+}
