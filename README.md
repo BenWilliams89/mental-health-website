@@ -64,3 +64,7 @@ Steps:
 - Next I created the Hero section by creating a container, then a row and then two divs. The first div had some text, paragraghs , icons and a button. The second div had an img. I made these align center and tweaked the styling to have a correct looking layout.
 
 - I used font-awesome for the icons 
+
+- I worked on my next section of services and used the cards element in bootstrap, here I displayed the 3 ways the business is able to offer support.
+
+- I got images from pexels
