@@ -6,7 +6,7 @@
     --primary-font: "Faculty Glyphic", sans-serif;
     --secondary-font: "Open Sans", sans-serif;
     --primary-color: #000;
-    --secondary-color: ;
+    --secondary-color: #20b2aa;
     --highlight-color: yellow;
     --highlight-color-light: ;
 }
@@ -59,4 +59,10 @@ p {
 
 #reviews{
     background-color: white;
+}
+
+/* Footer CSS Styling*/
+
+footer{
+    background-color: #20B2AA;
 }
