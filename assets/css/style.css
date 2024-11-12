@@ -48,3 +48,9 @@ p {
 #issues{
     background-color: white;
 }
+
+/* Issues CSS styling */
+
+.text-column{
+    padding: 30px;
+}
