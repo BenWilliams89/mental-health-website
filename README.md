@@ -37,7 +37,7 @@ The customer spoke about what the user is looking to get out of the website, her
 
  Desktop Wireframe:
 
- ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2008.58.56.png)
+ ![Alt text](/docs/images/Screenshot%202024-11-12%20at%2016.40.04.png)
  ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.02.45.png)
  ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.05.44.png)
  ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.11.05.png)
