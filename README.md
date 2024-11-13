@@ -1,6 +1,8 @@
 Mental Health Awareness Website
 
 ● Live Site link
+
+
 ● Introduction:
 Mental Clarity is a fictional company dedicated to help support people who are struggling with their mental health.
 This is my first project/website build after learning HTML, CSS and Bootstrap over the past 4 weeks and combining all of my recent skills together in a short space of time.
@@ -54,16 +56,20 @@ The fonts were taken from Google fonts.
 - Headers - Faulty Graphic
 - Paragraphs - Open Sans
 
-Imagery:
+● Imagery:
 
 The images were sourced from a mix of Pexels and Microsoft-Co-pilot.
 
 The goal was to find positive images as well as images that showcased what the user might be feeling and make them relate to the content.
 
+
+
+
+
+
 ● Responsivity Example Image
 
 
-● Contents
 
 
 
@@ -101,6 +107,8 @@ This project was completed with only:
 - Git Hub
 - Git Pod
 - Balsamic Wireframing
+- Favicon.io for the favicon
+- Microsoft co-pilot for some text content and images
 
 These are the only languages I have learned to date and wanted to test my knowledge and put my recently acquired skills to the test.
 
@@ -119,3 +127,6 @@ These are the only languages I have learned to date and wanted to test my knowle
 - Thanks to the whole team at Code Institute for helping embed some of these skills into me.
 
 - A special thanks to Dillion, Roo and Mark, who have been fantastic!
+
+
+- Bootstrap, Google Fonts, Font Awesome, Pexels & Favicon.io
