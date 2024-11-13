@@ -1,6 +1,6 @@
 Mental Health Awareness Website:
 
-![image of completed website](/docs/images/mobile-lightening-test.png)
+![image of completed website](/docs/images/Website%20Overview.png)
 
 ● Live Site link
 
@@ -144,7 +144,7 @@ These are the only languages I have learned to date and wanted to test my knowle
 ![image of mobile speed test](/docs/images/mobile-lightening-test.png)
 ![image of desktop speed test](/docs/images/desktop-lightening-test.png)
 ![image of css test](/docs/images/css-test.png)
-![image of HTML test](/docs/images/)
+![image of HTML test](/docs/images/HTML%20Test.png)
 
 
 ● Credits:
