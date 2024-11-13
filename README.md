@@ -1,4 +1,6 @@
-Mental Health Awareness Website
+Mental Health Awareness Website:
+
+![image of completed website](/docs/images/mobile-lightening-test.png)
 
 ● Live Site link
 
@@ -37,17 +39,17 @@ The customer spoke about what the user is looking to get out of the website, her
 
  Desktop Wireframe:
 
-![Alt text](/docs/images/desktop-hero-wireframe.png)
-![Alt text](/docs/images/desktop-how-wireframe.png)
-![Alt text](/docs/images/desktop-issues-wireframe.png)
-![Alt text](/docs/images/desktop-tip-footer-wireframe.png)
+![this shows a wireframe of the desktop hero section](/docs/images/desktop-hero-wireframe.png)
+![this shows a wireframe of the desktop how we help section](/docs/images/desktop-how-wireframe.png)
+![this shows a wireframe of the desktop issues section](/docs/images/desktop-issues-wireframe.png)
+![this shows a wireframe of the desktop tips and footer sections](/docs/images/desktop-tip-footer-wireframe.png)
  
  Table & Mobile Wireframe:
 
- ![Alt text](/docs/images/mobile-tablet-hero-wireframe.png)
- ![Alt text](/docs/images/mobile-table-how-wireframe.png)
- ![Alt text](/docs/images/mobile-tablet-wireframe.png)
- ![Alt text](/docs/images/mobile-tablet-tips.png)
+ ![this shows a wireframe of the mobile and tablet hero sections](/docs/images/mobile-tablet-hero-wireframe.png)
+ ![this shows a wireframe of the mobile and tablet how we help section](/docs/images/mobile-table-how-wireframe.png)
+ ![this shows a wireframe of the mobile and tablet issues section](/docs/images/mobile-tablet-wireframe.png)
+ ![this shows a wireframe of the mobile and tablet tips and footer section](/docs/images/mobile-tablet-tips.png)
 
 
 ● Colours & Typograghy:
@@ -69,16 +71,19 @@ The images were sourced from a mix of Pexels and Microsoft-Co-pilot.
 
 The goal was to find positive images as well as images that showcased what the user might be feeling and make them relate to the content.
 
-
-
+![this shows our hero image of a man looking happy in therapy](/docs/images/a-person-in-therapy-looking-happy.png)
+![this shows our hero image](/docs/images/Mental-Clarity-favicon-icon.png)
+![image used on a card section](/docs/images/pexels-ekaterina-bolovtsova-4049991.jpg)
+![image used on a card section](/docs/images/pexels-enginakyurt-3356489.jpg)
+![image used on a card section](/docs/images/pexels-mastercowley-897817.jpg)
+![image used on a card section](/docs/images/pexels-olly-3789215.jpg)
+![image used on a card section](/docs/images/pexels-pavel-danilyuk-7658355.jpg)
 
 
 
 ● Responsivity Example Image
 
-
-
-
+![image of our responsive website](/docs/images/responsive-website.png)
 
 
 
@@ -101,7 +106,7 @@ The goal was to find positive images as well as images that showcased what the u
 
 ● Future Features
 
-
+- As i progress and learn more languages I will add them to this project/website
 
 
 ● Technologies Used: 
@@ -126,13 +131,20 @@ These are the only languages I have learned to date and wanted to test my knowle
 
 ● Deployment: Step by step process for deploying to GitHub Pages
 
-
+- Went to settings in my repo
+- clicked pages
+- selected branch - Main
+- Saved changes
+- Site was deployed
 
 
 
 ● Testing: Validation of HTML/CSS, Lighthouse Audits, Bugs:
 
-
+![image of mobile speed test](/docs/images/mobile-lightening-test.png)
+![image of desktop speed test](/docs/images/desktop-lightening-test.png)
+![image of css test](/docs/images/css-test.png)
+![image of HTML test](/docs/images/)
 
 
 ● Credits:
