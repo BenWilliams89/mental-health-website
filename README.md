@@ -2,8 +2,9 @@ Mental Health Awareness Website:
 
 ![image of completed website](/docs/images/Website%20Overview.png)
 
-● Live Site link
+● Live Site Link:
 
+https://benwilliams89.github.io/mental-health-website/
 
 ● Introduction:
 Mental Clarity is a fictional company dedicated to help support people who are struggling with their mental health.
