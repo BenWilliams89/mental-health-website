@@ -37,18 +37,17 @@ The customer spoke about what the user is looking to get out of the website, her
 
  Desktop Wireframe:
 
- ![Alt text](/docs/images/Screenshot%202024-11-12%20at%2016.40.04.png)
- ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.02.45.png)
- ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.05.44.png)
- ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.11.05.png)
-
+![Alt text](/docs/images/desktop-hero-wireframe.png)
+![Alt text](/docs/images/desktop-how-wireframe.png)
+![Alt text](/docs/images/desktop-issues-wireframe.png)
+![Alt text](/docs/images/desktop-tip-footer-wireframe.png)
+ 
  Table & Mobile Wireframe:
 
- [Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.25.46.png)
- [Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.32.47.png)
- [Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.36.54.png)
- [Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.41.27.png)
-
+ ![Alt text](/docs/images/mobile-tablet-hero-wireframe.png)
+ ![Alt text](/docs/images/mobile-table-how-wireframe.png)
+ ![Alt text](/docs/images/mobile-tablet-wireframe.png)
+ ![Alt text](/docs/images/mobile-tablet-tips.png)
 
 
 ● Colours & Typograghy:
@@ -62,7 +61,6 @@ The fonts were taken from Google fonts.
 
 - Headers - Faulty Graphic
 - Paragraphs - Open Sans
-
 
 
 ● Imagery:
