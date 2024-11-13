@@ -16,7 +16,7 @@
 </head>
 <body>
 <!--Navbar Section-->
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar fixed-top navbar-expand-lg">
     <div class="container">
       <a class="navbar-brand" href="#">
         <img src="assets/images/Mental-Clarity-favicon-icon.png" class="d-inline-block align-text-center" alt="Logo of mental clarity" width="30" height="30">Mental Clarity</a>
@@ -61,7 +61,7 @@
 <section id="how-we-help" class="p-5">
   <div class="container">
     <div class="row text-center g-5">
-      <div><h2 class="mb-2">How We Help</h2></div>
+      <div><h2 class=" mt-4 mb-2">How We Help</h2></div>
       <div class="col-sm-12 col-md-4 col-lg-4">
         <div class="card">
           <img src="assets/images/pexels-olly-3789215.jpg" class="card-img-top" alt="A man looking happy on a phone call">
@@ -101,7 +101,7 @@
 <!--Common Issues Section-->
 <section id="issues" class="p-5">
   <div class="container">
-      <h2 class="text-center mb-4">Common Issues People Face</h2>
+      <h2 class="text-center mt-5 mb-5">Common Issues People Face</h2>
       <div class="row text-center g-5">
       <div class="col-md-6 text-column">
         <h3 class="mb-4">Anxiety:</h3>
@@ -169,6 +169,28 @@
 
 <!--Font Awesome Link-->
 <script src="https://kit.fontawesome.com/f8a2eb2500.js" crossorigin="anonymous"></script>
+
+<!-- JavaScript code to ensure the Bootstrap mobile navbar collapses when navigating to in-page links -->
+<script>
+  document
+      .querySelectorAll(".navbar-collapse .nav-link")
+      .forEach((link) => {
+          link.addEventListener("click", function (e) {
+              let section = document.querySelector(e.target.getAttribute("href"));
+              if (section) {
+                  e.preventDefault(); // Prevent default anchor click behavior
+                  let navbarHeight = document.querySelector(".navbar-toggler").offsetHeight;
+                  window.scroll({
+                      top: section.offsetTop - navbarHeight, // Adjust for navbar height
+                      behavior: "smooth",
+                  });
+                  document
+                      .querySelector(".navbar-collapse")
+                      .classList.remove("show"); // Collapse navbar
+              }
+          });
+      });
+</script>
 
 </body>
 

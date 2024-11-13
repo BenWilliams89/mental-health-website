@@ -15,7 +15,9 @@ body{
 font-family: var(--primary-font);
 background-color: #b0C4DE;
 color:var(--primary-color);
+padding-top: 50px;
 }
+
 
 h1,
 h2,
