@@ -35,14 +35,30 @@ The customer spoke about what the user is looking to get out of the website, her
  ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.05.44.png)
  ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.11.05.png)
 
-Mobile Wireframe
+ Table & Mobile Wireframe:
 
+ [Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.25.46.png)
+ [Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.32.47.png)
+ [Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.36.54.png)
+ [Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.41.27.png)
 
+● Colours & Typograghy:
 
+- Light Steel Blue #BOC4DE
+- Light Spa Green #20B2AA
+- Warning - Yellow Buttons
+- Text - Black
 
+The fonts were taken from Google fonts.
 
-  
+- Headers - Faulty Graphic
+- Paragraphs - Open Sans
 
+Imagery:
+
+The images were sourced from a mix of Pexels and Microsoft-Co-pilot.
+
+The goal was to find positive images as well as images that showcased what the user might be feeling and make them relate to the content.
 
 ● Responsivity Example Image
 
@@ -50,54 +66,56 @@ Mobile Wireframe
 ● Contents
 
 
-● UX (User Experience): User Stories, Strategy, Scope, Structural, Skeleton (Wireframes), Surface
 
-
-● Design: Typography, Colour Scheme, Imagery
 
 
 ● Website Features
 
+- There are a number of different features and elements across the website. A few are:
 
-● Tablet/Mobile View
+- Sticky nav bar
+- Links to different page sections
+- Buttons that re-direct to relevant external resources
+- The use of semantic HTML to break down each section
+- AI image generation and some text for the content
+- Bootstrap cards to display various options of support available
+- Bootstrap design and other elements such as footer, buttons etc
+- CSS applied to override various bootstrap elements like layout colours etc
+- The website is fully responsive and will work on your chosen device
+
+
 
 
 ● Future Features
 
 
-● Technologies Used: Languages, Frameworks, Libraries, Programs
+● Technologies Used: 
+
+This project was completed with only:
+
+- HTML
+- CSS
+- Bootstrap V5
+- Font Awesome
+- Google fonts
+- Git Hub
+- Git Pod
+- Balsamic Wireframing
+
+These are the only languages I have learned to date and wanted to test my knowledge and put my recently acquired skills to the test.
 
 
 ● Deployment: Step by step process for deploying to GitHub Pages
 
 
-● Testing: Validation of HTML/CSS, Lighthouse Audits, Bugs
+
+● Testing: Validation of HTML/CSS, Lighthouse Audits, Bugs:
+
+
 
 
 ● Credits:
 
-Steps:
+- Thanks to the whole team at Code Institute for helping embed some of these skills into me.
 
-- Added HTML boilerplate
-
-- Added all the links in the header, like bootstrap, css and favion. Also added them to the bottom of the body while placing my css link after my bootstrap link encase i needed to overrule any changes bootstrap was applying.
-
-- Added a readme and added basic outline steps
-
-- Addedd a css file and changed background colour to check it was working, then added google fonts
-
-- Added a navbar with bootstrap and made some changes by removing and updating certain fields to give it the style i wanted such as deleting disabled button and search bar.
-
-- used co-pilot to come up with a favicon image, then went to favicon.io to reduce the size and get the code to add to the html
-
-- Nav bar background was changed by inspecting the browser with the navtools - finding that the navbar class had an !important in it that was overriding my colours. found the issues then removed in code to update the navbar colour.
-
-- Next I created the Hero section by creating a container, then a row and then two divs. The first div had some text, paragraghs , icons and a button. The second div had an img. I made these align center and tweaked the styling to have a correct looking layout.
-
-- I used font-awesome for the icons 
-
-- I worked on my next section of services and used the cards element in bootstrap, here I displayed the 3 ways the business is able to offer support.
-
-- I got images from pexels
-
-- 
+- A special thanks to Dillion, Roo and Mark, who have been fantastic!
