@@ -1,8 +1,12 @@
 Mental Health Awareness Website
 
 ● Live Site link
+● Introduction:
+Mental Clarity is a fictional company dedicated to help support people who are struggling with their mental health.
+This is my first project/website build after learning HTML, CSS and Bootstrap over the past 4 weeks and combining all of my recent skills together in a short space of time.
 
-● Introduction
+
+● Key Objectives:
 
 The project owner supplied me with the following brief:
 - We want to create a welcoming webpage that provides basic mental health information using a clean and supportive design.
@@ -12,7 +16,34 @@ The customer spoke about what the user is looking to get out of the website, her
 - Including how to recognize common issues and manage stress.
 - The information needs to be presented in a supportive and organised layout that is easily accessible.
 
+● User Stories - These can be found in my GitHub in more detail:
+  - As a user, I want visual aids such as images or icons to enhance the understanding of content.
+  - As a user, I want an easy-to-navigate layout so that I can quickly find the information I need.
+  - As a user, I want the website to be responsive so that I can access it easily on any device.
+  - As a user, I want to see positive affirmations so that I feel uplifted and encouraged.
+  - As a user, I want resource links to external mental health support so that I can find additional help.
+  - As a user, I want tips on managing stress so that I can apply them to my daily life.
+  - As a user, I want accessible information on common mental health issues so that I can recognize and understand them.
+  - As a user, I want to see a welcoming hero section so that I feel encouraged and supported.
+
+ ● Wireframe:
+
+ Desktop Wireframe:
+
+ ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2008.58.56.png)
+ ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.02.45.png)
+ ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.05.44.png)
+ ![Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.11.05.png)
+
+Mobile Wireframe
+
+
+
+
+
   
+
+
 ● Responsivity Example Image
 
 
