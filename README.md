@@ -8,6 +8,7 @@ Mental Clarity is a fictional company dedicated to help support people who are s
 This is my first project/website build after learning HTML, CSS and Bootstrap over the past 4 weeks and combining all of my recent skills together in a short space of time.
 
 
+
 ● Key Objectives:
 
 The project owner supplied me with the following brief:
@@ -18,6 +19,8 @@ The customer spoke about what the user is looking to get out of the website, her
 - Including how to recognize common issues and manage stress.
 - The information needs to be presented in a supportive and organised layout that is easily accessible.
 
+
+
 ● User Stories - These can be found in my GitHub in more detail:
   - As a user, I want visual aids such as images or icons to enhance the understanding of content.
   - As a user, I want an easy-to-navigate layout so that I can quickly find the information I need.
@@ -27,6 +30,8 @@ The customer spoke about what the user is looking to get out of the website, her
   - As a user, I want tips on managing stress so that I can apply them to my daily life.
   - As a user, I want accessible information on common mental health issues so that I can recognize and understand them.
   - As a user, I want to see a welcoming hero section so that I feel encouraged and supported.
+
+
 
  ● Wireframe:
 
@@ -44,6 +49,8 @@ The customer spoke about what the user is looking to get out of the website, her
  [Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.36.54.png)
  [Alt text](../mental-health-website/assets/images/Screenshot%202024-11-13%20at%2009.41.27.png)
 
+
+
 ● Colours & Typograghy:
 
 - Light Steel Blue #BOC4DE
@@ -55,6 +62,8 @@ The fonts were taken from Google fonts.
 
 - Headers - Faulty Graphic
 - Paragraphs - Open Sans
+
+
 
 ● Imagery:
 
@@ -95,6 +104,8 @@ The goal was to find positive images as well as images that showcased what the u
 ● Future Features
 
 
+
+
 ● Technologies Used: 
 
 This project was completed with only:
@@ -113,7 +124,11 @@ This project was completed with only:
 These are the only languages I have learned to date and wanted to test my knowledge and put my recently acquired skills to the test.
 
 
+
+
 ● Deployment: Step by step process for deploying to GitHub Pages
+
+
 
 
 
